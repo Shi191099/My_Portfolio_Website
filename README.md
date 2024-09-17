@@ -2,14 +2,14 @@
 
 > A clean, beautiful, Responsive Portfolio template!!
 
-> https://rahul15.now.sh/
+> https://sheetal.now.sh/
 
 <p align="center"><img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = 30%></p>
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://rahul15.now.sh/" target="_blank"><img src="images/readme.JPG">
+    <a href="https://sheetal.now.sh/" target="_blank"><img src="images/readme.JPG">
   </a>
   </kbd>
 </p>
@@ -30,7 +30,7 @@
 ✔️ Interests And Hobbies\
 ✔️ Contact Me
 
-To view a live example, **[click here](https://rahul15.now.sh/)**
+To view a live example, **[click here](https://sheetal.now.sh/)**
 
 ## Want to Contribute 💡
 #### Step 1
